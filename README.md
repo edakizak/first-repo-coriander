@@ -16,4 +16,4 @@
 
 ## Link a page
 
-[Markdown Guide [https://www.markdownguide.org/cheat-sheet/]
+[Markdown Guide][https://www.markdownguide.org/cheat-sheet/]
